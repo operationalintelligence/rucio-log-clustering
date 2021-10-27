@@ -4,7 +4,7 @@ pytz==2019.2
 # sqlparse==0.3.0
 urllib3==1.25.3
 daal4py==2019.5
-dask==1.1.4
+dask==2021.10.0
 editdistance==0.5.3
 fuzzywuzzy==0.17.0
 gensim==3.8.0
